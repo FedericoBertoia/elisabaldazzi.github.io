@@ -1,15 +1,10 @@
 ---
 title: "Elisa Baldazzi"
-subtitle: |
-      | PhD Student
-      |
-      | Department of Economics
-      | University of Bologna
 image: mypic.jpg
 about:
   template: solana
-  image-shape: round
-  image-width: 20em
+  image-shape: rectangle
+  image-width: 16em
   links:
     - text: Email
       icon: envelope
@@ -17,8 +12,7 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/elisa-baldazzi-351a18158/
-    - icon: globe
-      text: Bluesky
+    - text: "{{< iconify simple-icons bluesky >}} Bluesky"
       href: https://bsky.app/profile/elisabaldazzi.bsky.social
     - icon: twitter
       text: Twitter
@@ -26,24 +20,31 @@ about:
     - icon: github
       text: Github
       href: https://github.com/elisabaldazzi
+    - text: "{{< iconify fa6-brands:google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?hl=en&user=skYW2pgAAAAJ
+---
+PhD Student 
+
+Department of Economics
+University of Bologna
+
+I am a third-year PhD student in Economics (interdisciplinary PhD in Public Governance, Management and Policy) at [University of Bologna](https://www.unibo.it/en/homepage){style="text-decoration: none"} under the supervision of Prof. Dr. [Pietro Biroli](https://sites.google.com/site/pietrobiroli/){style="text-decoration: none"} (University of Bologna) and Prof. Dr. [Marina Della Giusta](https://mardelgiu.com/){style="text-decoration: none"} (University of Turin). I have been a visiting researcher at [London School of Economics](https://www.lse.ac.uk/){style="text-decoration: none"}, at the Department of Social Policy, under the supervision of Prof. Dr. [Almudena Sevilla](https://www.lse.ac.uk/people/almudena-sevilla){style="text-decoration: none"} and at the [WISPPRH](https://www.lse.ac.uk/social-policy/research/research-clusters/wispprh){style="text-decoration: none"}.\
+My research lies in applied microeconomics, gender economics and economics of education. If you want to get in touch, please don't hesitate to contact me.
+
 ---
 
-
-I am a third-year PhD student in Economics (interdisciplinary PhD in Public Governance, Management and Policy) at [University of Bologna](https://www.unibo.it/en/homepage){style="text-decoration: none"} under the supervision of Prof. Dr. [Pietro Biroli](https://sites.google.com/site/pietrobiroli/){style="text-decoration: none"} (University of Bologna) and Prof. Dr. [Marina Della Giusta](https://mardelgiu.com/){style="text-decoration: none"} (University of Turin). I am currently a visiting researcher at [London School of Economics](https://www.lse.ac.uk/), at the Department of Social Policy, under the supervision of Prof. Dr. [Almudena Sevilla](https://www.lse.ac.uk/people/almudena-sevilla). My research lies in applied microeconomics and economics of education. If you want to get in touch, please don't hesitate to contact me.
-
-## **Education**
+## *Education*
 
 -   PhD in Economics (Public Governance, Management and Policy), University of Bologna, Italy\
     Nov 2023 - Nov 2026 (expected)
-
 -   MSc in Economics, University of Bologna, Italy\
     Sept 2021 - Oct 2023
-
 -   BSc in Management and Marketing, University of Bologna, Italy\
     Sept 2018 - July 2021
 
+---
 
-## **Teaching**
+## *Teaching*
 
--   [Microeconomics](https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2023/478326){style="text-decoration: none"}, 1st year B.Sc in Management and Economics, University of Bologna\
-    *Spring 2024, 2026* 
+-   [Microeconomics](https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2023/478326){style="text-decoration: none"}, 1st year BSc in Management and Economics, University of Bologna (with Prof. [Francesca Barigozzi](https://sites.google.com/site/francescabarigozziunibo/){style="text-decoration: none"}) Spring 2024
+-   [Microeconomics](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2025/525385){style="text-decoration: none"}, 1st year BSc in Management and Marketing, University of Bologna (with Prof. [Francesca Barigozzi](https://sites.google.com/site/francescabarigozziunibo/){style="text-decoration: none"}) Spring 2026

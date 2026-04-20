@@ -1,29 +1,41 @@
 ## **Working Papers**
 
--   **Seeing Sterotypes** \[[arxiv](https://arxiv.org/abs/2503.02146)\]\
+-   **Seeing Stereotypes** \[[arxiv](https://arxiv.org/abs/2503.02146)\]\
     [Baldazzi, E]{.underline}., Biroli, P., Della Giusta, M., Dubois, F.\
     *arXiv preprint arXiv:2503.02146, 2025*
 
 ## **Work in Progress**
 
-- *Cognitive and Non Cognitive Outcomes of the Scout Method*
-- *Do LVLMs See Stereotypes as We Do? A Social Science Framework for Evaluating LVLMs’ Recognition and Explanation of Stereotypes in Images* with Marco Madeddu, Chiara Ferrando, Horacio Jarquín Vásquez, Marina Della Giusta, Viviana Patti.
+- **The Impact of Scouting on School Absences: Evidence from England** (Job Market Paper)
+
+- **Words that Matter: Gender and Performance Assessment in the Workplace** with Marina Della Giusta, Sylvia Jaworska, Giovanni Razzu and Almudena Sevilla.
+
+- **Do LVLMs See Stereotypes as We Do? A Social Science Framework for Evaluating LVLMs’ Recognition and Explanation of Stereotypes in Images** with Marco Madeddu, Chiara Ferrando, Horacio Jarquín Vásquez, Marina Della Giusta, Viviana Patti.
 
 
 ## **Presentations**
 
-- **Seeing Sterotypes**\
-  *Contributed talk at the [Workshop on the Economics of Education](https://feb.kuleuven.be/drc/LEER/bridge-project/workshop-on-the-economics-of-education){style="text-decoration: none"}, Leuven, Belgium\
-  *November 2025
+<details>
+<summary>**The Impact of Scouting on School Absences: Evidence from England**</summary>
 
-- **Seeing Sterotypes**\
-  *Contributed talk at the [ESPE 2025](https://www.espe2025naples.com/){style="text-decoration: none"}, Naples, Italy\
-  *June 2025
+- *Contributed talk at the [AEDE](https://2026.economicsofeducation.com/en/){style="text-decoration: none"}, Logrono, Spain* — July 2026
+- *Poster at the [IWAEE](https://iwaee.org/new/){style="text-decoration: none"}, Catanzaro, Italy* — June 2026
+- *Invited talk at the [HE Junior Seminars](https://www.eur.nl/en/ese/department-applied-economics/health-economics/events){style="text-decoration: none"}, Rotterdam, Netherlands* — May 2026
+- *Contributed talk at the [ECWEF](https://sites.google.com/view/ecwe-verona/home){style="text-decoration: none"}, Verona, Italy* — May 2026
+- *Seminar at the [BHEPPE](https://sites.google.com/view/bheppe){style="text-decoration: none"}, Bologna, Italy* — May 2026
 
-- **Seeing Sterotypes**\
-  *Contributed talk at the [4th Workshop On Gender and Economics](https://inomics.com/conference/call-for-papers-4th-workshop-on-gender-and-economics-1547797#:~:text=The%20fourth%20edition%20of%20the,on%2022%2D23%20May%202025.){style="text-decoration: none"}, Luxembourg, Luxembourg\
-  *May 2025
+</details>
 
-- **Seeing Sterotypes**\
-  *Contributed talk at the [Bolzano Applied Microeconomics Workshop](https://www.unibz.it/en/events/bolzano-applied-microeconomics-workshop-2025){style="text-decoration: none"}, Bolzano, Italy\
-  *March 2025
+<details>
+<summary>**Seeing Stereotypes**</summary>
+
+- *Contributed talk at the [Workshop on Frontiers in Measurement and Survey Methods](https://www.metodweb.eu/){style="text-decoration: none"}, Rende, Italy* — May 2026
+- *Contributed talk at the [Workshop on the Economics of Education](https://feb.kuleuven.be/drc/LEER/bridge-project/workshop-on-the-economics-of-education){style="text-decoration: none"}, Leuven, Belgium* — November 2025
+- *Contributed talk at the [ESPE 2025](https://www.espe2025naples.com/){style="text-decoration: none"}, Naples, Italy* — June 2025
+- *Contributed talk at the [4th Workshop On Gender and Economics](https://inomics.com/conference/call-for-papers-4th-workshop-on-gender-and-economics-1547797){style="text-decoration: none"}, Luxembourg* — May 2025
+- *Contributed talk at the [Bolzano Applied Microeconomics Workshop](https://www.unibz.it/en/events/bolzano-applied-microeconomics-workshop-2025){style="text-decoration: none"}, Bolzano, Italy* — March 2025
+
+</details>
+  
+## **Discussant**
+- [Closing Gender Gaps Workshop](https://www.lse.ac.uk/social-policy/research/research-clusters/wispprh/events/closing-gender-gaps-workshop){style="text-decoration: none"}, London, United Kingdom - March 2026
