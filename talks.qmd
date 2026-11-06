@@ -1,0 +1,40 @@
+---
+title: "Talks"
+---
+
+## Conference and Seminar Presentations
+
+### 2027
+
+::: {.talks}
+- [CSWEP Session, AEA/ASSA Annual Meeting](https://www.aeaweb.org/about-aea/committees/cswep/news-and-events/annual-meeting), Washington, DC, United States [January]{.talk-date} [scheduled]{.talk-tag}
+:::
+
+### 2026
+
+::: {.talks}
+- [19th UniTO-CCA Ph.D. Workshop in Economics](https://www.workshopecon.carloalberto.org/), Collegio Carlo Alberto, Turin, Italy [December]{.talk-date} [scheduled]{.talk-tag}
+- 41st AIEL Conference, Rome, Italy
+- [XXXIV Meeting of the Economics of Education Association (AEDE)](https://2026.economicsofeducation.com/en/), Logroño, Spain [July]{.talk-date} [Scouting]{.talk-tag}
+- [International Workshop on Applied Economics of Education (IWAEE)](https://iwaee.org/new/), Catanzaro, Italy (poster) [June]{.talk-date} [Scouting]{.talk-tag}
+- [HE Junior Seminar](https://www.eur.nl/en/ese/department-applied-economics/health-economics/events), Erasmus University Rotterdam, Netherlands (invited) [May]{.talk-date} [Scouting]{.talk-tag}
+- [Workshop on Frontiers in Measurement and Survey Methods](https://www.metodweb.eu/), Rende, Italy [May]{.talk-date} [Seeing Stereotypes]{.talk-tag}
+- [Early Career Workshop in Economics & Financial Mathematics](https://sites.google.com/view/ecwe-verona/home), Verona, Italy [May]{.talk-date} [Scouting]{.talk-tag}
+- [BHEPPE Seminar](https://sites.google.com/view/bheppe), Bologna, Italy [May]{.talk-date} [Scouting]{.talk-tag}
+:::
+
+### 2025
+
+::: {.talks}
+- [Workshop on the Economics of Education](https://feb.kuleuven.be/drc/LEER/bridge-project/workshop-on-the-economics-of-education), KU Leuven, Belgium [November]{.talk-date} [Seeing Stereotypes]{.talk-tag}
+- Internal Seminar, University of Bologna, Italy
+- [European Society for Population Economics (ESPE)](https://www.espe2025naples.com/), Naples, Italy [June]{.talk-date} [Seeing Stereotypes]{.talk-tag}
+- [4th Workshop on Gender and Economics](https://inomics.com/conference/call-for-papers-4th-workshop-on-gender-and-economics-1547797), Luxembourg [May]{.talk-date} [Seeing Stereotypes]{.talk-tag}
+- [Bolzano Applied Microeconomics Workshop](https://www.unibz.it/en/events/bolzano-applied-microeconomics-workshop-2025), Bolzano, Italy [March]{.talk-date} [Seeing Stereotypes]{.talk-tag}
+:::
+
+## Discussant
+
+::: {.talks}
+- [Closing Gender Gaps Workshop](https://www.lse.ac.uk/social-policy/research/research-clusters/wispprh/events/closing-gender-gaps-workshop), London School of Economics, London, United Kingdom [March 2026]{.talk-date}
+:::

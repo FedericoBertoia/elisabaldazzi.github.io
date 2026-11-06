@@ -1,32 +1,7 @@
 ---
-title: "CV"
----
-
----
 title: "Curriculum Vitae"
-format: html
 ---
 
-<!-- Desktop iframe -->
-<iframe class="desktop-only" 
-        src="CV_Elisa_Baldazzi.pdf" 
-        width="100%" 
-        height="600px" 
-        style="border:1px solid #ccc;">
-</iframe>
+[<i class="bi bi-download"></i> Download CV (PDF)](CV_Elisa_Baldazzi.pdf){.cv-download} [Last updated: November 2026]{.cv-updated}
 
-<!-- Mobile link -->
-<p class="mobile-only">
-  <a href="CV_Elisa_Baldazzi.pdf" target="_blank">Download CV</a>
-</p>
-
-<!-- CSS to hide/show elements based on screen size -->
-<style>
-  @media (max-width: 768px) {
-    .desktop-only { display: none; }
-  }
-  @media (min-width: 769px) {
-    .mobile-only { display: none; }
-  }
-</style>
-
+<iframe class="cv-frame desktop-only" src="CV_Elisa_Baldazzi.pdf" title="Curriculum Vitae of Elisa Baldazzi"></iframe>

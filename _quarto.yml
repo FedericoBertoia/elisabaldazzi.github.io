@@ -1,29 +1,34 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - CV_Elisa_Baldazzi.pdf
 
 website:
   title: Elisa Baldazzi
+  site-url: https://elisabaldazzi.github.io
   navbar:
-    background: secondary
-    search: true
-    left:
+    background: primary
+    search: false
+    right:
       - text: Home
         file: index.qmd
       - text: Research
         file: research.qmd
+      - text: Talks
+        file: talks.qmd
       - text: Curriculum Vitae
         file: cv.qmd
-  page-footer: "&#169; Elisa Baldazzi, 2026"
-      
+  page-footer:
+    center: "&#169; Elisa Baldazzi, 2026"
 
 format:
   html:
     theme:
-      light: cosmo
-      dark: [cosmo, theme-dark.scss]
+      light: [cosmo, theme-light.scss]
+      dark: [cosmo, theme-light.scss, theme-dark.scss]
     css: styles.css
     toc: false
-    page-layout: full
+    page-layout: article
 
 editor: visual
